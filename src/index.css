@@ -1,0 +1,59 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+
+
+#card{
+    border: 1px solid #57eba3;
+    border-radius: 15px;
+    color: rgb(60, 131, 19);
+    margin: 30px auto;
+    width: 15%;
+    font-weight: bolder;
+}
+
+#msn-error{
+    border: 1px solid rgb(255, 117, 4);
+    border-radius: 15px;
+    color: rgb(255, 117, 48);
+    margin: 30px auto;
+    width: 15%;
+    font-weight: bolder;
+}
+
+input{
+    border: 1px solid black;
+    border-radius: 3px;
+    margin: 3px 150px;
+    width: 300px;
+}
+
+
+#btn-enviar {
+    background-color: #cef8e4;
+    color: #222;
+    margin: 3px;
+    margin-bottom: 10px;
+    padding: 3px 5px;
+    cursor: pointer;
+    width: 150px;
+    margin-top: 20px;
+    
+}
+
+#btn-enviar:hover {
+    background-color: #ccc;
+    color: #222;
+    margin: 3px;
+    margin-bottom: 8px;
+    padding: 4px 6px;
+    cursor: pointer;
+    width: 160px;
+    margin-top: 20px;
+    
+
+}
+
+
